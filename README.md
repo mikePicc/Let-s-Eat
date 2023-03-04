@@ -1,2 +1,2 @@
-# Let-s-Eat
+# Lets-Eat
 Senior Project for SJSU
