@@ -1,0 +1,44 @@
+#about-header {
+    padding: 1em;
+    text-align: center;
+}
+
+#about-main {
+    padding: 1em 8em;
+}
+
+#about-main > p {
+    text-indent: 50px;
+}
+
+#about-main > h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#team-members, #special-thanks {
+    padding: 0 4em;
+}
+
+.about-profile-img {
+    height: 8em;
+    display:inline;
+    margin: 0 1em;
+}
+
+.team-member {
+    margin-bottom: 1em;
+}
+
+.team-member > h3 {
+    display:inline;
+}
+
+.team-member > p {
+    margin: 0;
+}
+
+.right-align {
+    /* text-align: right; */
+    margin-left: 4em;
+}

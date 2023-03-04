@@ -1,0 +1,70 @@
+#banner-img {
+    height: 10em;
+    width: 100%;
+    max-height: max-content;
+    object-fit: cover;
+}
+
+#restaurant-header {    
+    display: flex;
+    flex-direction: row;
+}
+
+#left-side-header {
+    width: 70%;
+    padding: 1em;
+    box-sizing: border-box;
+}
+
+#right-side-header {
+    background-color: #f0f0f0;
+    width: 30%;
+    padding: 1em;
+    box-sizing: border-box;
+}
+
+[data-testid="PlaceIcon"],
+[data-testid="ScheduleIcon"] {
+    position: relative;
+    top: 2px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+[data-testid="LanguageIcon"],
+[data-testid="PhoneIcon"],
+[data-testid="StarIcon"] {
+    position: relative;
+    top: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+#schedule {
+    list-style-type: none;
+    border-spacing: 0.2em;
+}
+
+.schedule-unit:nth-child(even) {
+    background-color: #d6d6d6;
+}
+
+.schedule-unit {
+    border-spacing: 0.2em;
+}
+
+.schedule-unit[data-today="true"] {
+    font-weight: bold;
+    background-color: rgba(45, 180, 0, 0.6);
+}
+
+.schedule-dotw {
+    display: inline-block;
+    margin: 0em 1em;
+    width: 4em;
+}
+
+.schedule-time {
+    display: inline-block;
+    margin: 0em 1em;
+}
