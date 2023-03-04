@@ -54,5 +54,46 @@ Michael Picerillo (michael.piccerillo@sjsu.edu)
 Special thanks to our project advisor Professor Simon Shim!
 
 # Front End Dependencies
+```
+"@emotion/react": "^11.10.5",
+"@emotion/styled": "^11.10.5",
+"@mui/icons-material": "^5.10.6",
+"@mui/material": "^5.10.12",
+"@mui/styles": "^5.10.10",
+"@mui/x-data-grid": "^5.17.9",
+"axios": "^1.1.3",
+"bootstrap": "^5.2.2",
+"concurrently": "^7.4.0",
+"express": "^4.18.1",
+"mongoose": "^6.6.4",
+"morgan": "^1.10.0",
+"nodemon": "^2.0.20",
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-router-dom": "^6.4.1",
+"react-scripts": "^5.0.1",
+"react-toastify": "^9.1.1",
+"reactstrap": "^9.1.4"
+```
 
-
+# Back End Dependencies 
+```
+"axios": "^1.1.3",
+"bcrypt": "^5.1.0",
+"bcryptjs": "^2.4.3",
+"body-parser": "^1.20.0",
+"concurrently": "^7.3.0",
+"connect-sqlite3": "^0.9.13",
+"cookie-parser": "^1.4.6",
+"cors": "^2.8.5",
+"csurf": "^1.11.0",
+"dotenv": "^16.0.1",
+"express": "^4.18.1",
+"express-session": "^1.17.3",
+"mongoose": "^6.5.2",
+"mongoose-unique-validator": "^3.1.0",
+"nodemon": "^2.0.20",
+"passport": "^0.6.0",
+"passport-local": "^1.0.0",
+"pluralize": "^8.0.0"
+```
