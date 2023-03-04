@@ -1,7 +1,6 @@
 # Lets-Eat
 Senior Project for SJSU
 
-Let's Eat is a prototype browser-based interface for a hypothetical food delivery service. Developed by Group 23 for Course 195A/B at San Jose State University for the 2022 Spring-Fall semester as a Senior Project. Built primarily in JavaScript and HTML/CSS using the MERN Stack framework. Final submission was of December 2, 2022, 23:59 PST. Any updates to the repository after this deadline is of the member's own volition.
 
 
 # Installation
@@ -44,15 +43,6 @@ For terminal B, perform the following commands:
 
 Once both terminals have concluded their scripts, the application will be running until the terminals have been closed.
 
-# Credits
-This program was developed by the following members:
-
-* Edward Josh Hermano (edwardjosh.hermano@sjsu.edu or ejoshcasmano@gmail.com)
-* Brian Huynh (brian.huynh04@sjsu.edu)
-* Khang Phan (khanghoangthieu.phan@sjsu.edu)
-* Michael Picerillo (michael.piccerillo@sjsu.edu)
-
-Special thanks to our project advisor Professor Simon Shim!
 
 # Front End Dependencies
 ```
