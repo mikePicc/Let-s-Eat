@@ -47,10 +47,11 @@ Once both terminals have concluded their scripts, the application will be runnin
 # Credits
 This program was developed by the following members:
 
-Edward Josh Hermano (edwardjosh.hermano@sjsu.edu or ejoshcasmano@gmail.com)
-Brian Huynh (brian.huynh04@sjsu.edu)
-Khang Phan (khanghoangthieu.phan@sjsu.edu)
-Michael Picerillo (michael.piccerillo@sjsu.edu)
+* Edward Josh Hermano (edwardjosh.hermano@sjsu.edu or ejoshcasmano@gmail.com)
+* Brian Huynh (brian.huynh04@sjsu.edu)
+* Khang Phan (khanghoangthieu.phan@sjsu.edu)
+* Michael Picerillo (michael.piccerillo@sjsu.edu)
+
 Special thanks to our project advisor Professor Simon Shim!
 
 # Front End Dependencies
